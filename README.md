@@ -1,6 +1,6 @@
 
 My name is Runyu Ni.
-here is my homepage https://scaredname.github.io/.
+You can find more about me in my homepage https://scaredname.github.io/.
 
 <!--
 **Scaredname/Scaredname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
